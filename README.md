@@ -12,7 +12,8 @@ In the default settings the extension automatically pauses the timer whenever a 
 ### Typing kana
 Usually you would need an external IME to input kana if you don't have a japanese keyboard (or respective key-mappings), but those are rather tedious and sometimes contain auto correction and text prediction, which is not what you want when learning Japanese words. Also you have to switch the input back to roman letters when you need to input English again.
 
-This extension uses the open source [WanaKana](http://wanakana.com/) javascript IME to automatically converts your romaji input to kana as you type whenever you are prompted for kana input.
+This extension uses the open source [WanaKana](http://wanakana.com/)[^1] javascript IME to automatically converts your romaji input to kana as you type whenever you are prompted for kana input.
+[^1]: Copyright (c) 2013 WaniKani Community Github
 
 ![WanaKanaDemo](/readme-assets/4.gif)
 
