@@ -36,14 +36,17 @@ we can create much moch challenging options to choose from, so that you really h
     <img src='/readme-assets/6.png' alt='missing' />
     <figcaption>Thats not "difficult" at all!</figcaption>
 </figure>
+
 <figure>
     <img src='/readme-assets/2.png' alt='missing' />
     <figcaption>Now <i>that's</i> more like it!</figcaption>
 </figure>
+
 <figure>
     <img src='/readme-assets/3.png' alt='missing' />
     <figcaption>Problem?</figcaption>
 </figure>
+
 <figure>
     <img src='/readme-assets/1.png' alt='missing' />
     <figcaption>OK, I'm done. (and no, there are no duplicates)</figcaption>
