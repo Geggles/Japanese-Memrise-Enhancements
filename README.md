@@ -54,6 +54,13 @@ Traditionally, you'd have to type the word in kana (using your IME) and then sel
 
 The extension replaces kanji typing prompts with multiple-choice questions instead.
 
+## How to contribute
+If you want to help with this project, here's what you can do:
+* Give a better name to this extension
+* Design a logo for this extension
+* Suggest features and report bugs
+You can send all those things to my [email address](mailto:gegglesdev@gmail.com).
+
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
