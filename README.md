@@ -20,6 +20,16 @@ The extension also makes sure to invoke WanaKana one last time right before the 
 
 ![んDemo](/readme-assets/5.gif)
 
+### Kana multiple-choice
+Multiple-choice questions for kana are a joke, let's be honest.
+
+By default, this extension replaces all kana multiple-choice questions with typing prompts instead.
+
+### Kanji multiple choice
+Kanji multiple choice isn't much better in that regard.
+![](/readme-assets/6.png)
+*Thats not "difficult" at all!*
+
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
