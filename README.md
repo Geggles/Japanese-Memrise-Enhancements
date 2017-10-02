@@ -16,7 +16,7 @@ This extension uses the open source WanaKana javascript IME (http://wanakana.com
 
 ![WanaKanaDemo](/readme-assets/4.gif)
 
-The extension also makes sure to invoke WanaKana one last time right before the answer is checked by Memrise, to deal with those dreaded _dreaded ん_
+The extension also makes sure to invoke WanaKana one last time right before the answer is checked by Memrise, to deal with those dreaded _trailing ん_.
 
 ![んDemo](/readme-assets/5.gif)
 
@@ -28,8 +28,12 @@ By default, this extension replaces all kana multiple-choice questions with typi
 ### Kanji multiple choice
 Kanji multiple choice isn't much better in that regard.
 ![](/readme-assets/6.png)
+
 *Thats not "difficult" at all!*
 
+![](/readme-assets/2.png)
+
+*Not _that's_ more like it!*
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
