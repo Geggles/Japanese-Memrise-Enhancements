@@ -56,7 +56,7 @@ The extension replaces kanji typing prompts with multiple-choice questions inste
 
 ## How to contribute
 If you want to help with this project, here's what you can do:
-* Give a better name to this extension
+* Think of a better name for this extension
 * Design a logo for this extension
 * Suggest features and report bugs
 * Share the extension with people who may find it usefull as well
