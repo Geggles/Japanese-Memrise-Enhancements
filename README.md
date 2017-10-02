@@ -28,7 +28,11 @@ By default, this extension replaces all kana multiple-choice questions with typi
 
 ### Kanji multiple choice
 Kanji multiple choice isn't much better in that regard.
-![](/readme-assets/6.png)
+<figure>
+    <img src='/readme-assets/6.png' alt='missing' />
+    <figcaption>Caption goes here</figcaption>
+</figure>
+![]()
 
 Thats not "difficult" at all!
 
