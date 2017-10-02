@@ -14,6 +14,8 @@ Usually you would need an external IME to input kana if you don't have a japanes
 
 This extension uses the open source WanaKana javascript IME (http://wanakana.com/) to automatically converts your roman input to kana as you type whenever you are prompted by Memrise for kana input.
 
+![WanaKanaDemo](/readme-assets/4.gif)
+
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
