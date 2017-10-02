@@ -16,6 +16,10 @@ This extension uses the open source WanaKana javascript IME (http://wanakana.com
 
 ![WanaKanaDemo](/readme-assets/4.gif)
 
+The extension also makes sure to invoke WanaKana one last time right before the answer is checked by Memrise, to deal with those dreaded _dreaded ん_
+
+![んDemo](/readme-assets/5.gif)
+
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
