@@ -28,6 +28,9 @@ By default, this extension replaces all kana multiple-choice questions with typi
 
 ### Kanji multiple choice
 Kanji multiple choice isn't much better in that regard.
+
+Using data from Lars Yencken's kanji similarity [dataset](http://lars.yencken.org/datasets/phd/), 
+we can create much moch challenging options to choose from, so that you really have to learn to recognize the correct kanji and not just the overall appearance.
 <figure>
     <img src='/readme-assets/6.png' alt='missing' />
     <figcaption>Thats not "difficult" at all!</figcaption>
@@ -36,6 +39,11 @@ Kanji multiple choice isn't much better in that regard.
     <img src='/readme-assets/2.png' alt='missing' />
     <figcaption>Now <i>that's</i> more like it!</figcaption>
 </figure>
+<figure>
+    <img src='/readme-assets/3.png' alt='missing' />
+    <figcaption>Problem?</figcaption>
+</figure>
+
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
