@@ -30,15 +30,12 @@ By default, this extension replaces all kana multiple-choice questions with typi
 Kanji multiple choice isn't much better in that regard.
 <figure>
     <img src='/readme-assets/6.png' alt='missing' />
-    <figcaption>Caption goes here</figcaption>
+    <figcaption>Thats not "difficult" at all!</figcaption>
 </figure>
-![]()
-
-Thats not "difficult" at all!
-
-![](/readme-assets/2.png)
-
-Not _that's_ more like it!
+<figure>
+    <img src='/readme-assets/2.png' alt='missing' />
+    <figcaption>Not _that's_ more like it!</figcaption>
+</figure>
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
