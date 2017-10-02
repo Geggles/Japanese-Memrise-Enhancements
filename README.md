@@ -59,8 +59,10 @@ If you want to help with this project, here's what you can do:
 * Give a better name to this extension
 * Design a logo for this extension
 * Suggest features and report bugs
+* Share the extension with people who may find it usefull as well
+* And of course, since this is a public repository, you can directly contribute to the code
 
-You can send all those things to my [email address](mailto:gegglesdev@gmail.com).
+You can send these things to my [email address](mailto:gegglesdev@gmail.com).
 
 ## License
 
