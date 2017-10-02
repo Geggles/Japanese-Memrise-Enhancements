@@ -34,7 +34,7 @@ Kanji multiple choice isn't much better in that regard.
 </figure>
 <figure>
     <img src='/readme-assets/2.png' alt='missing' />
-    <figcaption>Not _that's_ more like it!</figcaption>
+    <figcaption>Now <i>that's</i> more like it!</figcaption>
 </figure>
 ## License
 
