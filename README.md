@@ -63,4 +63,4 @@ You can send all those things to my [email address](mailto:gegglesdev@gmail.com)
 
 ## License
 
-This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GNU GPL 3.0 License - see the [LICENSE](LICENSE) file for details
