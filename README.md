@@ -49,6 +49,11 @@ we can create much moch challenging options to choose from, so that you really h
     <figcaption>OK, I'm done. (and no, there are no duplicates)</figcaption>
 </figure>
 
+### Kanji typing
+Traditionally, you'd have to type the word in kana (using your IME) and then select the right kanji from a drop down list. That's not very helpful when learning.
+
+The extension replaces kanji typing prompts with multiple-choice questions instead.
+
 ## License
 
 This project is licensed under the GNU GPL 2.0 License - see the [LICENSE](LICENSE) file for details
