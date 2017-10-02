@@ -59,6 +59,7 @@ If you want to help with this project, here's what you can do:
 * Give a better name to this extension
 * Design a logo for this extension
 * Suggest features and report bugs
+
 You can send all those things to my [email address](mailto:gegglesdev@gmail.com).
 
 ## License
