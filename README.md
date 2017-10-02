@@ -28,11 +28,9 @@ By default, this extension replaces all kana multiple-choice questions with typi
 ### Kanji multiple choice
 Kanji multiple choice isn't much better in that regard.
 ![](/readme-assets/6.png)
-
 *Thats not "difficult" at all!*
 
 ![](/readme-assets/2.png)
-
 *Not _that's_ more like it!*
 ## License
 
