@@ -20,6 +20,13 @@ The extension also makes sure to invoke WanaKana one last time right before the 
 
 ![んDemo](/readme-assets/5.gif)
 
+Typing can also be very tedious.
+
+So if you think you know the answer, you can also just yell it at your monitor and then press the Tab key on your keyboard to autocomplete (yelling is optional).
+Also, if available, the extension will try to show the kanji version of the word after you give a correct answer.
+
+![TabDemo](/readme-assets/7.gif)
+
 ### Kana multiple-choice
 Multiple-choice questions for kana are a joke, let's be honest.
 
