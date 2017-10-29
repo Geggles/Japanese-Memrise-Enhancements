@@ -63,6 +63,13 @@ Traditionally, you'd have to type the word in kana (using your IME) and then sel
 
 The extension replaces kanji typing prompts with multiple-choice questions instead.
 
+### Custom prompt labels
+Often, especially when dealing with courses from different creators, the prompt they give you can be ambiguous.
+
+That's why the extension allows you to simply click onto the prompt label and change it to your heart's desires and it will show the custom prompt every time you see that item (this does not change the actual course, just the way it is presented to the user).
+
+![LabelDemo](/readme-assets/8.gif)
+
 ## How to contribute
 If you want to help with this project, here's what you can do:
 * Think of a better name for this extension
