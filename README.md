@@ -36,7 +36,7 @@ By default, this extension replaces all kana multiple-choice questions with typi
 Kanji multiple choice isn't much better in that regard.
 
 Using data from Lars Yencken's kanji similarity [dataset](http://lars.yencken.org/datasets/phd/), 
-we can create much moch challenging options to choose from, so that you really have to learn to recognize the correct kanji and not just the overall appearance.
+we can create much more challenging options to choose from, so that you really have to learn to recognize the correct kanji and not just the overall appearance.
 
 <figure>
     <img src='/readme-assets/6.png' alt='missing' />
