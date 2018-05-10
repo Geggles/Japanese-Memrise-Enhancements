@@ -2,6 +2,13 @@
 A Google Chrome™ extension that enhances your Japanese learning experience on memrise.com.
 Memrise is great for learning Japanese vocabulary, but it has a few shortcomings in that , which this browser extension seeks to mitigate. 
 
+## Disclaimer
+Since Memrise updated their code to use ES Modules bundled into a function whose content cannot be accessed from the outside, pretty much all of the code here does not work anymore. I have a fix in mind, involving static code transformation to do introspection on Memrise functions with the help of their source maps, but it might take a while until I have the time to implement it (because of univerity).
+
+I wanted to wait with the release of this code until all the features were finished, but since Memrise' changes have completely wreckt my project, I though "might as well". All freatures were finished months ago, but the one that changes the titel, translation etc. of the vocabulary items turned out to be much more difficult than I anticipated. The feature itself used to work a long time ago, but the ability to change those labels in the options is very tedious, especially because I'm using [Fancy Settings](https://github.com/LiminalSoftware/fancy-settings) to do the options page, which was not a good idea. Ideally I would make my own settings page, but I just don't have the time to do all of that side work. 
+
+The structure of the whole project (managed by the build.js file) is organized in a way that is intuitive, but might need some explanation if somebody wants to change something about the inner workings of that, since I haven't left many comments in there. Many other things, like the `SemiPromises` are informally documented (since I'm not currently using any documentation engine, because I don't know if anybody is even going to read those) and yet others like `existingProperty` are not documented at all. Again, I don't know if anybody even wants or needs explanations on those; there are probably libraries out there that do the same thing. I just like doing things like that myself because it's fun.
+
 ## Features
 
 ### Timer
