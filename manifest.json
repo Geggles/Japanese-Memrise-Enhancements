@@ -1,0 +1,36 @@
+{
+  "name": "Japanese Memrise Enhancements",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Improve your Memrise Japanese learning experience",
+  "background": {
+    "scripts": [
+      "options_custom/lib/store.js",
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "options_page": "options_custom/index.html",
+  "page_action": {
+    "default_title": "Japanese Memrise Enhancements",
+    "default_popup": "page_action/page_action.html"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "*://www.memrise.com/garden/review/*/*",
+    "*://www.memrise.com/course/*/*/garden/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.memrise.com/garden/review/*/*",
+        "*://www.memrise.com/course/*/*/garden/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}
